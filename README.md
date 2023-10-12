@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capandstones&show_icons=true&theme=radical)
